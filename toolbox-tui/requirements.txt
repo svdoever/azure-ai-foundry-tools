@@ -1,0 +1,4 @@
+azure-identity>=1.19.0
+httpx>=0.27.0
+github-copilot-sdk>=1.0.1
+textual>=8.2.0
